@@ -1,0 +1,10 @@
+﻿namespace SSSnake.Enums
+{
+    public enum Direction
+    {
+        Up,
+        Down,
+        Left,
+        Right
+    }
+}

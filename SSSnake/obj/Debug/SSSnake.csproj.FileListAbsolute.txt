@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SSSnake\SSSnake\bin\Debug\SSSnake.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SSSnake\SSSnake\bin\Debug\SSSnake.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SSSnake\SSSnake\bin\Debug\SSSnake.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SSSnake\SSSnake\obj\Debug\SSSnake.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SSSnake\SSSnake\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SSSnake\SSSnake\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SSSnake\SSSnake\obj\Debug\SSSnake_MarkupCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SSSnake\SSSnake\obj\Debug\SSSnake_MarkupCompile.lref
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SSSnake\SSSnake\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SSSnake\SSSnake\obj\Debug\SSSnake.g.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SSSnake\SSSnake\obj\Debug\SSSnake.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SSSnake\SSSnake\obj\Debug\SSSnake.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SSSnake\SSSnake\obj\Debug\SSSnake.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SSSnake\SSSnake\obj\Debug\SSSnake.pdb
